@@ -1,0 +1,17 @@
+venv-yolov5/
+
+yolov5/
+
+runs/
+
+*.pt
+
+*ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+path: C:/Users/endle/.Uni/Computer_Vision/lab6/computer-vision-lab6/road-sign-detection
+train: images/train/
+val: images/val/
+test: images/test/
+
+nc: 4
+
+names: ["trafficlight", "stop", "speedlimit", "crosswalk"]
